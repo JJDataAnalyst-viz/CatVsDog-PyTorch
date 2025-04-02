@@ -1,0 +1,32 @@
+# Data files
+data
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Pytest cache
+.pytest_cache/
+
+# Django stuff
+*.sqlite3
+db.sqlite3
+media/
+
+# Logs
+logs/
+*.log
+
+# VS Code settings
+.vscode/
